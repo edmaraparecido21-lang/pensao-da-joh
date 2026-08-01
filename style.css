@@ -7,7 +7,7 @@ a{color:inherit}
    min-height:680px;
 background:
 linear-gradient(90deg,rgba(5,44,31,.75),rgba(5,44,31,.45),rgba(5,44,31,.20)),
-url("imagem/sala.jpg") center center/cover no-repeat;
+url("sala.jpg") center center/cover no-repeat;
 color:#fff;
 }
 .navbar{max-width:1180px;margin:auto;padding:24px 28px;display:flex;align-items:center;justify-content:space-between}
